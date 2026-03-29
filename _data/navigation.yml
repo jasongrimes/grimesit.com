@@ -24,8 +24,6 @@ foot:
 
   - title: Products
     children:
-      - title: "Music<br>Teachers"
-        url: https://music-teacher-tech.com/
       - title: "Fretboard<br>Foundation"
         url: https://fretboardfoundation.com/
       - title: "More..."
@@ -33,8 +31,6 @@ foot:
 
   - title: Services
     children:
-      - title: "Web Hosting"
-        url: https://music-teacher-tech.com
       - title: "Software"
         url: /services/#full-stack-web-development
       - title: "Infrastructure"
